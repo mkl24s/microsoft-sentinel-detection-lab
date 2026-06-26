@@ -99,7 +99,7 @@ This lab simulates a real-world attack chain against a Windows 11 endpoint and d
 ## Lab Components
 
 ### Infrastructure
-- **Resource Group:** rg-soc-lab (Central US)
+- **Resource Group:** rg-soc-lab (UK South)
 - **Virtual Machine:** vm-target-endpoint — Windows 11 Pro, Standard D2s v3 (2 vCPUs, 8 GiB RAM)
 - **VNet:** vm-target-endpoint-vnet — Address space 10.0.0.0/16
 - **Subnet:** default — 10.0.0.0/24
