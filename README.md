@@ -290,4 +290,5 @@ CompTIA A+, CompTIA Security+, AZ-900, Splunk Power User
 ## Author
 
 Mason Lewis
+
 LinkedIn: https://www.linkedin.com/in/mason-lewis-0abba6295/
